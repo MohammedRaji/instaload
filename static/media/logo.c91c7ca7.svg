@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 24 24"
+   height="150"
+   viewBox="0 0 31.40625 7.03125"
+   width="670"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="instagram-sketched.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient850"
+       x1="0.91371214"
+       y1="5.8874454"
+       x2="5.9270797"
+       y2="1.2638884"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.36574389,0.15841554)" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="0.953"
+     inkscape:cx="238.99863"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <linearGradient
+     id="SVGID_1_"
+     gradientTransform="matrix(0,-1.982,-1.844,0,-132.522,-51.077001)"
+     gradientUnits="userSpaceOnUse"
+     x1="-37.105999"
+     x2="-34.940342"
+     y1="-72.705002"
+     y2="-75.071922">
+    <stop
+       offset="0"
+       stop-color="#fd5"
+       id="stop2" />
+    <stop
+       offset="0.49271953"
+       stop-color="#ff543e"
+       id="stop4" />
+    <stop
+       offset="1"
+       stop-color="#c837ab"
+       id="stop6" />
+  </linearGradient>
+  <g
+     id="g856"
+     transform="translate(0.36574389,-0.15841554)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient850);fill-opacity:1;stroke-width:0.2818583"
+       id="path9"
+       d="m 0.37250069,0.75242 c -0.53158476,0.55216 -0.42278745,1.138708 -0.42278745,2.920616 0,1.479756 -0.25818221,2.963176 1.09304656,3.312399 C 1.4647016,7.093951 5.2032703,7.093951 5.6246483,6.984874 6.1872376,6.839717 6.6449752,6.383388 6.7075479,5.587702 6.7162879,5.47665 6.7162879,1.8714 6.707266,1.758093 6.640748,0.910543 6.1190278,0.422083 5.4315755,0.32315 5.2740165,0.30032 5.2424483,0.29356 4.4340789,0.29215 1.5667344,0.29355 0.93819034,0.165877 0.37250069,0.752424 Z" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.2818583"
+       inkscape:connector-curvature="0"
+       id="path11"
+       d="m 3.3314492,1.176899 c -1.0234275,0 -1.9952749,-0.09104 -2.36648233,0.86164 -0.15333098,0.393475 -0.13106414,0.904484 -0.13106414,1.636188 0,0.642073 -0.020576,1.245532 0.13106414,1.635905 0.37036183,0.953245 1.35010133,0.861923 2.36591863,0.861923 0.9800213,0 1.9904832,0.102033 2.3662005,-0.861923 0.1536128,-0.39742 0.1310639,-0.900818 0.1310639,-1.635905 0,-0.975793 0.053835,-1.605746 -0.4194048,-2.078705 C 4.9295857,1.116863 4.2815936,1.176899 3.3303218,1.176899 Z M 3.1076537,1.627027 C 5.2424483,1.623627 5.5141601,1.38632 5.3642115,4.683216 5.3109405,5.849264 4.4230865,5.7213 3.3317311,5.7213 c -1.9899197,0 -2.0471369,-0.05693 -2.0471369,-2.0477 0,-2.013878 0.1578407,-2.045446 1.8230595,-2.047137 z M 4.6646389,2.04164 c -0.1654507,0 -0.2996153,0.134165 -0.2996153,0.299616 0,0.16545 0.1341646,0.299615 0.2996153,0.299615 0.1654512,0 0.2996154,-0.134165 0.2996154,-0.299615 0,-0.165451 -0.1341642,-0.299616 -0.2996154,-0.299616 z M 3.3314492,2.39199 c -0.7083099,0 -1.2824553,0.574427 -1.2824553,1.282737 0,0.70831 0.5741454,1.282455 1.2824553,1.282455 0.7083099,0 1.2821734,-0.574145 1.2821734,-1.282455 0,-0.70831 -0.5738635,-1.282737 -1.2821734,-1.282737 z m 0,0.450127 c 1.1006567,0 1.102066,1.66522 0,1.66522 -1.1003748,0 -1.102066,-1.66522 0,-1.66522 z" />
+    <text
+       id="text828"
+       y="5.6649208"
+       x="19.164959"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.37002444px;line-height:1.25;font-family:Jaldi;-inkscape-font-specification:'Jaldi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10531326"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.05503702px;font-family:'Abril Fatface';-inkscape-font-specification:'Abril Fatface, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.10531326"
+         y="5.6649208"
+         x="19.164959"
+         id="tspan826"
+         sodipodi:role="line">InstaLoad</tspan></text>
+  </g>
+</svg>
